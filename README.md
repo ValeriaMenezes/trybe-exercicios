@@ -1,6 +1,6 @@
 # Trybe 
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por[mim](https://www.linkedin.com/feed/) enquanto estudava em [Trybe] (https://www.betrybe.com/): rocket: 
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por[mim](https://www.linkedin.com/feed/) enquanto estudava em [Trybe](https://www.betrybe.com/)
 
 _ "Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego." _ 
 
