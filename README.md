@@ -1,6 +1,6 @@
 # Trybe 
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _ [Valéria Menezes] (https://www.linkedin.com/feed/) _ enquanto estudava em [Trybe] (https://www.betrybe.com/): rocket: 
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _ [mim](https://www.linkedin.com/feed/) _ enquanto estudava em [Trybe] (https://www.betrybe.com/): rocket: 
 
 _ "Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego." _ 
 
