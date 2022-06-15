@@ -1,0 +1,39 @@
+body {
+    font-size: 16px;
+}
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: #A0522D;
+    text-decoration: underline overline;
+}
+ul {
+    background-color: #F5DEB3;
+}
+.background-p-ul {
+    background-color: #DEB887;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+ul {
+    font-style: italic;
+    line-height: 3em;
+    text-align: center;
+}
+#li1 {
+    background-color: #FFD700;
+} 
+#li2 {
+    background-color: rgb(220,20,60);
+}
+#li3 {
+    background-color: SaddleBrown;
+}
+#li4 {
+    background-color: rgb(75,0,130);
+}
+#li5 {
+    background-color: LightGreen;
+}
