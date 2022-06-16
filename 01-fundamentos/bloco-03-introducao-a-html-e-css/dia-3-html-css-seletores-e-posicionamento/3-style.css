@@ -1,0 +1,13 @@
+h1,p, ol, li {
+    text-align: center;
+}
+li:hover {
+   background-color: #FFFACD;
+}
+li:active {
+    color: BurlyWood;
+    transition-delay: 5s;
+}
+ul, ol {
+    list-style: none
+}
