@@ -114,6 +114,21 @@
      
      // SEGUNGA PARTE
 
+      //1
+      let classTitle = document.querySelector('h1');
+      classTitle.className = 'title';
+
+      //2
+      tagH3 = document.getElementsByTagName('h3');
+      for (let index = 0; index <= 3; index += 1) {
+        tagH3[index].className = 'description';
+      }
+
+     //3
+     let removeSectionLeft = document.getElementsByClassName('left-content') [0];
+    //  console.log(removeSectionLeft);
+     tagMain.removeChild(tagSectionLeft);
+
     </script>
   </body>
 </html>
