@@ -115,18 +115,18 @@ buttonFriday(fridays);
 
 //6
 function dayMouseover() {
-  let getClassDay = document.querySelector('#days');
+  let getIdDays = document.querySelector('#days');
 
-  getClassDay.addEventListener('mouseover', function(event) {
+  getIdDays.addEventListener('mouseover', function(event) {
     event.target.style.fontSize = '30px';
     event.target.style.fontWeight = '700';
   })
 }
 
 function normalDay() {
-  let getClassDay = document.querySelector('#days');
+  let getIdDays = document.querySelector('#days');
 
-  getClassDay.addEventListener('mouseout', function(event) {
+  getIdDays.addEventListener('mouseout', function(event) {
     event.target.style.fontSize = '20px';
     event.target.style.fontWeight = '200';
   })
@@ -135,3 +135,28 @@ dayMouseover();
 normalDay();
 
 //7
+function taskSpan(task) {
+  let classTask = document.querySelector('.my-tasks');
+  let tagSpan = document.createElement('span');
+
+  tagSpan.innerHTML = task;
+  classTask.appendChild(tagSpan);
+}
+taskSpan('passear com o gato');
+// taskSpan('fazer compras');
+// taskSpan('caminhar');
+
+
+
+//8
+function colorTask(color){
+  let colorTask = document.querySelector('.my-tasks');
+  let tagDiv = document.createElement('div');
+
+  tagDiv.className = 'task';
+  tagDiv.style.backgroundColor = color;
+  colorTask.appendChild(tagDiv);
+}
+colorTask('green');
+
+//9
