@@ -81,7 +81,7 @@ function buttonHolidayColor() {
 buttonHolidayColor();
 
 //4
-function createFridayButton (paramFridayButton) {
+function createFridayButton(paramFridayButton) {
   let buttonContainer = document.querySelector('.buttons-container');
   let fridayButton = document.createElement('button');
   let fridayButtonId = 'btn-friday';
@@ -94,3 +94,44 @@ function createFridayButton (paramFridayButton) {
 createFridayButton('Sexta-feira');
 
 //5
+function buttonFriday(fridayArray) {
+  // let fridays;
+  let getButtonFriday = document.querySelector('#btn-friday');
+  let getClassFriday = document.querySelectorAll('.friday');
+  let changeText = 'Sextou!';
+
+  getButtonFriday.addEventListener('click', function () {
+    for (let index = 0; index < getClassFriday.length; index += 1) {
+      if (getClassFriday[index].innerHTML !== changeText) {
+        getClassFriday[index].innerHTML = changeText;
+      } else {
+        getClassFriday[index].innerHTML = fridayArray[index];
+      }
+    }
+  })
+}
+let fridays = [4, 11, 18, 25]
+buttonFriday(fridays);
+
+//6
+function dayMouseover() {
+  let getClassDay = document.querySelector('#days');
+
+  getClassDay.addEventListener('mouseover', function(event) {
+    event.target.style.fontSize = '30px';
+    event.target.style.fontWeight = '700';
+  })
+}
+
+function normalDay() {
+  let getClassDay = document.querySelector('#days');
+
+  getClassDay.addEventListener('mouseout', function(event) {
+    event.target.style.fontSize = '20px';
+    event.target.style.fontWeight = '200';
+  })
+}
+dayMouseover();
+normalDay();
+
+//7
