@@ -160,3 +160,17 @@ function colorTask(color){
 colorTask('green');
 
 //9
+function classTaskSelected() {
+  let selectedTask = document.getElementsByClassName('task selected');
+  let tasks = document.querySelector('.task');
+  tasks.addEventListener('click', function(event){
+    if(selectedTask.length === 0) {
+      event.target.className = 'task selected';
+    } else {
+      event.target.className = 'task';
+    }
+  })
+}
+classTaskSelected();
+
+//10
