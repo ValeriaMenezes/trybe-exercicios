@@ -174,3 +174,22 @@ function classTaskSelected() {
 classTaskSelected();
 
 //10
+function dayColor() {
+  let selectedTask = document.getElementsByClassName('task selected');
+  let idDays = document.querySelector('#days');
+  let classTask = document.querySelector('.task');  
+  let taskColor = classTask.style.backgroundColor;
+
+  idDays.addEventListener('click', function(event) {
+    let eventTargetColor = event.target.style.color;
+    if (selectedTask.length > 0 && eventTargetColor !== taskColor) {
+       let color = selectedTask[0].style.backgroundColor;
+       event.target.style.color = color;
+    } else if (eventTargetColor === taskColor) {
+       event.target.style.color = 'rgb(119, 119, 119)'
+    }
+  })
+}
+dayColor();
+
+//Bônus
