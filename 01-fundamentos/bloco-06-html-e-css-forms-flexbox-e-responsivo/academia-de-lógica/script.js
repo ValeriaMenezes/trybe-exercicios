@@ -25,3 +25,19 @@ function getData(value) {
   dataFormatada = data.toLocaleDateString('pt-BR');
   return dataFormatada;
 }
+
+function addLi(event) {
+event.preventDefault();  
+let li = document.createElement('li');
+let quarto = document.createElement('p');
+let obs = document.createElement('p');
+
+li.innerText = 'Reserva para o dia ' + getData(checkin.value) + ' até o dia' + getData(checkout.value);
+quarto.innerText = 'Quarto ' + getQuarto() + ' - Para ' + getPessoas() + ' pessoas ';
+obs.innerText = 'Obs: ' + textArea.value;
+
+li.appendChild(quarto);
+li.appendChild(obs);
+ol.appendChild(li);
+}
+btnSubmit.addEventListener('click', addLi);

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <meta charset="UTF-8">
@@ -10,7 +10,55 @@
 </head>
 
 <body>
-  <!-- Seu código aqui -->
+  <header class="heaader-trybe">
+    <h1>Hotel Trybe</h1>
+    <img src="">
+  </header>
+<section class="hotel-form">
+  <form>
+    <h2>Reserve seu quarto!</h2>
+  <label>Check-in:</label>
+  <input class="inputCheckin" type="date">
+  <label>Check-out:</label>
+  <input class="inputCheckout" type="date">
+</section>
+<section class="hotel-form">
+  <h3>Quartos:</h3>
+  <div>
+    <input class="bedroom" type="radio" name="bedroom" value="Comum" id="comum">
+ <label for="comum">Comum</label>
+</div>
+<div>
+<input class="bedroom" type="radio" name="bedroom" value="Club" id="club">
+ <label for="club">Club</label>
+</div>
+<div>
+  <input class="bedroom" type="radio" name="bedroom" value="Luxo" id="luxo">
+ <label for="luxo">Luxo</label>
+</div>
+</section>
+<section class="hotel-form">
+ <label>Pessoas:</label>
+ <select>
+   <option value="1">1 Pessoa</option>
+   <option value="2">2 Pessoas</option>
+   <option value="3">3 Pessoas</option>
+   <option value="4">4 Pessoas</option>
+ </select>
+</section>
+<section class="hotel-form">
+  <!-- <label for="obs">Observações</label> -->
+<textarea placeholder="Observações" class="obs" name="obs" id="obs" ></textarea>
+</section>
+<section>
+  <button type="submit" id="submit-btn">Enviar</button>
+</section>
+<section class="list-section">
+  <h3>Reserva</h3>
+  <ol></ol>
+  <button id="clear-btn">Limpar</button>
+</section>
+</form>
   <script src="script.js"></script>
 </body>
 
