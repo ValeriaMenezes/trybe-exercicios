@@ -24,7 +24,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 3-2: _HTML e CSS - Introdução ao CSS_ 
 - [:heavy_check_mark:] 3-3: _HTML e CSS - Seletores e Posicionamento_ 
 - [:heavy_check_mark:] 3-4: _HTML Semântico_ 
-- [:heavy_check_mark:] 3-5: _ [Projeto - HTML e CSS]_
+- [:heavy_check_mark:] 3-5: _ Projeto - HTML e CSS_
 
 #### # Bloco 4: Introdução - JavaScript 
 
@@ -32,7 +32,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 4-2: _JavaScript - Array e Loop For_ 
 - [:heavy_check_mark:] 4-3 : _JavaScript - Lógica de Programação e Algoritmos_
 - [:heavy_check_mark:] 4-4: _JavaScript - Objetos e Funções_ 
-- [:heavy_check_mark:] 4-5: _ [Projeto - Funções do Playground_
+- [:heavy_check_mark:] 4-5: _ Projeto - Funções do Playground_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos 
 
@@ -40,11 +40,11 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 5-2: _JavaScript - Trabalhando com itens_ 
 - [:heavy_check_mark:] 5-3: _JavaScript - Events_ 
 - [:heavy_check_mark:] 5-4: _JavaScript - Web Storage_ 
-- [:heavy_check_mark:] 5-6: _ [Projeto - Pixel Art] _ 
-- [] 5-7: _ [Project - Meme Generator ] _ 
-- [] 5-7: _ [Projeto - Lista de Tarefas] _ 
-- [] 5-7: _ [Projeto - Adivinha a Cor] _ 
-- [] 5-7: _ [Projeto - Carta Misteriosa] _ 
+- [:heavy_check_mark:] 5-6: _ Projeto - Pixel Art_ 
+- [] 5-7: _Project - Meme Generator_ 
+- [] 5-7: _Projeto - Lista de Tarefas_ 
+- [] 5-7: _Projeto - Adivinha a Cor_ 
+- [] 5-7: _Projeto - Carta Misteriosa_ 
 
 ##### Bloco 6: HTML e CSS Avançado 
 
