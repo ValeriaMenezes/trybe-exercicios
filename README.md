@@ -32,7 +32,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 4-2: _JavaScript - Array e Loop For_ 
 - [:heavy_check_mark:] 4-3 : _JavaScript - Lógica de Programação e Algoritmos_
 - [:heavy_check_mark:] 4-4: _JavaScript - Objetos e Funções_ 
-- [:heavy_check_mark:] 4-5: _ Projeto - Funções do Playground_
+- [:heavy_check_mark:] 4-5: _Projeto - Funções do Playground_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos 
 
