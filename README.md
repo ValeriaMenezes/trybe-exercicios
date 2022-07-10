@@ -5,18 +5,18 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. 
 
-## Fundamentos do Desenvolvimento Web: white_check_mark: 
+## Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1: Introdução - Unix & Shell 
 
-- [] 1-3: _Unix & Shell- Parte 1_
-- [] 1-4: _Unix & Shell- Parte 2_ 
+- [x] 1-3: _Unix & Shell- Parte 1_
+- [x] 1-4: _Unix & Shell- Parte 2_ 
 
 ##### Bloco 2: Git & GitHub 
 
-- [] 2-1: _O que é e para que serve? _ 
-- [] 2-2: _Entendendo o comandos_ 
-- [] 2-3: _Internet - Entendendo como funciona_ 
+- [x] 2-1: _O que é e para que serve? _ 
+- [x] 2-2: _Entendendo o comandos_ 
+- [x] 2-3: _Internet - Entendendo como funciona_ 
 
 ##### Bloco 3: Introdução - HTML e CSS 
 
