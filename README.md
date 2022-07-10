@@ -26,7 +26,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 3-4: _HTML Semântico_ 
 - [:heavy_check_mark:] 3-5: _ Projeto - HTML e CSS_
 
-#### # Bloco 4: Introdução - JavaScript 
+##### Bloco 4: Introdução - JavaScript 
 
 - [:heavy_check_mark:] 4-1: _JavaScript - Introdução_ 
 - [:heavy_check_mark:] 4-2: _JavaScript - Array e Loop For_ 
@@ -40,7 +40,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 5-2: _JavaScript - Trabalhando com itens_ 
 - [:heavy_check_mark:] 5-3: _JavaScript - Events_ 
 - [:heavy_check_mark:] 5-4: _JavaScript - Web Storage_ 
-- [:heavy_check_mark:] 5-6: _ Projeto - Pixel Art_ 
+- [:heavy_check_mark:] 5-6: _Projeto - Pixel Art_ 
 - [] 5-7: _Project - Meme Generator_ 
 - [] 5-7: _Projeto - Lista de Tarefas_ 
 - [] 5-7: _Projeto - Adivinha a Cor_ 
@@ -53,7 +53,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [] 6-3: _CSS Flexbox - Parte 1_ 
 - [] 6-4: _CSS Flexbox - Parte 2_ 
 - [] 6-5: _CSS Responsive - Mobile First_ 
-- [] 6-6: _ [Projeto - Página Facebook Home ] () _ 
+- [] 6-6: _Projeto - Página Facebook Home_ 
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários 
 
