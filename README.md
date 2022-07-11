@@ -40,8 +40,8 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 5-2: _JavaScript - Trabalhando com itens_ 
 - [:heavy_check_mark:] 5-3: _JavaScript - Events_ 
 - [:heavy_check_mark:] 5-4: _JavaScript - Web Storage_ 
-- [:heavy_check_mark:] 5-6: _Projeto - Pixel Art_ 
-- [] 5-7: _Project - Meme Generator_ 
+- [:heavy_check_mark:] 5-5: _Projeto - Pixel Art_ 
+- [] 5-6: _Project - Meme Generator_ 
 - [] 5-7: _Projeto - Lista de Tarefas_ 
 - [] 5-7: _Projeto - Adivinha a Cor_ 
 - [] 5-7: _Projeto - Carta Misteriosa_ 
@@ -58,9 +58,9 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 ##### Bloco 7: JavaScript ES6 & Testes Unitários 
 
 - [] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_ 
-- [] 7-2: _JavaScript ES6 - Objects_ 
-- [] 7-3: _Testes Unity em JavaScript_ 
-- [] 7-4: _ [Projeto - Testes Unitários JavaScript] () _ 
+- [] 7-2: _JavaScript ES6 - Fluxo de exceção e Objects_ 
+- [] 7-3: _Primeiros passos em Jest_ 
+- [] 7-4: _Projeto - JavaScript Testes Unitários_ 
 
 ##### Bloco 8: JavaScript ES6 
 
@@ -69,6 +69,8 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
 - [] 8-4: _JavaScript ES6 - operador spread, parâmetro rest, desestruturação e mais_ 
 - [] 8-5: _ [Project - Zoo functions] () _ 
+
+## Desenvolvimento Front-end
 
 ##### Bloco 9: Assincronia & Callbacks 
 
@@ -82,8 +84,6 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [] 10-2: _Jest - Testes Assíncronos_ - 
 [] 10-3: _Jest - Simulando Comportamentos_ - 
 [] 10-4: _ [Projeto - Brincadeira Assíncrona e Simulação] () _ ## 
-
-Desenvolvimento Frontal - end: hourglass_flowing_sand: 
 
 ##### Bloco 11: Introdução - Reagir 
 
@@ -139,7 +139,7 @@ Desenvolvimento Frontal - end: hourglass_flowing_sand:
 
 - [] 19-1: _ [Projeto - Aplicativo de Receita] ( ) _ 
 
-## Desenvolvimento back-end: hourglass_flowing_sand: 
+## Desenvolvimento back-end :hourglass_flowing_sand: 
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais - [] 20-1: _banco de 
 
