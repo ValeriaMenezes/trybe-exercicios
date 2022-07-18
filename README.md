@@ -41,19 +41,19 @@ O programa tem mais de 1.500 horas de aulas presenciais e online. Envolve desenv
 - [:heavy_check_mark:] 5-3: _JavaScript - Events_ 
 - [:heavy_check_mark:] 5-4: _JavaScript - Web Storage_ 
 - [:heavy_check_mark:] 5-5: _Projeto - Pixel Art_ 
-- [] 5-6: _Project - Meme Generator_ 
+- [] 5-6: _Projeto - Meme Generator_ 
 - [] 5-7: _Projeto - Lista de Tarefas_ 
 - [] 5-7: _Projeto - Adivinha a Cor_ 
 - [] 5-7: _Projeto - Carta Misteriosa_ 
 
 ##### Bloco 6: HTML e CSS Avançado 
 
-- [] 6- 1: _HTML e CSS - Formulários_ 
-- [] 6-2: _Bibliotecas Javascript e Estruturas CSS_
-- [] 6-3: _CSS Flexbox - Parte 1_ 
-- [] 6-4: _CSS Flexbox - Parte 2_ 
-- [] 6-5: _CSS Responsive - Mobile First_ 
-- [] 6-6: _Projeto - Página Facebook Home_ 
+- [:heavy_check_mark:] 6- 1: _HTML e CSS - Formulários_ 
+- [:heavy_check_mark:] 6-2: _Bibliotecas Javascript e Estruturas CSS_
+- [:heavy_check_mark:] 6-3: _CSS Flexbox - Parte 1_ 
+- [:heavy_check_mark:] 6-4: _CSS Flexbox - Parte 2_ 
+- [:heavy_check_mark:] 6-5: _CSS Responsive - Mobile First_ 
+- [:heavy_check_mark:] 6-6: _Projeto - Trybewarts_ 
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários 
 
