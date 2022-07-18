@@ -18,24 +18,14 @@ const lesson3 = {
   turno: 'noite',
 };
 
-//1 !!! PERGUNTAR
+//1 ESTRUTURA PARA ADICIONAR QUALQUER CHAVE E VALOR EM QUALQUER OBJETO.
 
-// const addNewKey = (lesson2, newKey, turno) => {
-//   const newKey = 'turno';
-//   const turno = 'noite';
-//   lesson2[newKey] = turno;
-
-// }
-// addNewKey(lesson2, newKey, turno);
-// console.log(lesson2);
-
-
-const addNewKey = (obj, key, value) => {
-  obj[key] = value;
-};
-
-addNewKey(lesson2, 'turno', 'noite');
+const addNewKey = (object, newKey, value) => {
+  object[newKey] = value;
+}
+addNewKey(lesson3, 'turno', 'noite');
 console.log(lesson2);
+
 
 //2
 
@@ -54,8 +44,8 @@ console.log(lesson2);
 
 //5
 
-const allLessons = Object.assign({}, { lesson1, lesson2, lesson3 });
-console.log(allLessons);
+// const allLessons = Object.assign({}, { lesson1, lesson2, lesson3 });
+// console.log(allLessons);
 
 //6
 
@@ -78,18 +68,18 @@ console.log(allLessons);
 
 //8
 
-const verifyPair = (obj, key, value) => {
-  const entries = Object.entries(obj);
-  let equal = false;
+// const verifyPair = (obj, key, value) => {
+//   const entries = Object.entries(obj);
+//   let equal = false;
 
-  for (let index in entries) {
-    if (entries[index][0] === key && entries[index][1] === value) {
-      equal = true;
-      return equal;
-    } else {
-      equal = false;
-      return equal;
-    }
-  }
-};
-console.log(verifyPair(lesson3,  'materia', 'Maria Clara'));
+//   for (let index in entries) {
+//     if (entries[index][0] === key && entries[index][1] === value) {
+//       equal = true;
+//       return equal;
+//     } else {
+//       equal = false;
+//       return equal;
+//     }
+//   }
+// };
+// console.log(verifyPair(lesson3,  'materia', 'Maria Clara'));
