@@ -82,3 +82,22 @@ const  novaString = (funcao) => {
   return resultado;
 }
 console.log(novaString(substituiX('Valéria')));
+=======
+const maiorPalavra = (frase) => {
+  const arrayPalavra = frase.split(' ');
+  let tamanhoPalavra = 0;
+  let resultado = '';
+
+  for (let palavra of arrayPalavra) {
+    if(palavra.length > tamanhoPalavra) {
+      tamanhoPalavra = palavra.length;
+      resultado = palavra;
+    } 
+  }
+  return resultado;
+}
+console.log(maiorPalavra('Antônio foi no banheiro e não sabemos o que aconteceu'));
+
+//3
+
+ exercicios/7.1
