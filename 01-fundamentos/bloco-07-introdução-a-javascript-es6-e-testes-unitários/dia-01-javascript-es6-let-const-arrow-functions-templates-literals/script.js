@@ -43,20 +43,42 @@
 
 //2
 
-const maiorPalavra = (frase) => {
-  const arrayPalavra = frase.split(' ');
-  let tamanhoPalavra = 0;
-  let resultado = '';
+// const maiorPalavra = (frase) => {
+//   const arrayPalavra = frase.split(' ');
+//   let tamanhoPalavra = 0;
+//   let resultado = '';
 
-  for (let palavra of arrayPalavra) {
-    if(palavra.length > tamanhoPalavra) {
-      tamanhoPalavra = palavra.length;
-      resultado = palavra;
-    } 
+//   for (let palavra of arrayPalavra) {
+//     if(palavra.length > tamanhoPalavra) {
+//       tamanhoPalavra = palavra.length;
+//       resultado = palavra;
+//     } 
+//   }
+//   return resultado;
+// }
+// console.log(maiorPalavra('Antônio foi no banheiro e não sabemos o que aconteceu'));
+
+// //4
+
+const substituiX = (nome) => {
+  const frase = 'Tryber x aqui!';
+  const fraseArray = frase.split(' ');
+
+  for (let index = 0; index < fraseArray.length; index +=1) {
+      if (fraseArray[index] === 'x'){
+         fraseArray[index] = nome;
+      }
+  }
+  return fraseArray.join(' ');
+}
+console.log(substituiX('Valéria'));
+
+const  novaString = (funcao) => {
+  const skills = ['HTML', 'CSS', 'JavaScript'];
+  let resultado = `${funcao} Minhas principais habilidades são:`;
+  for (let index = 0; index < skills.length; index +=1) {
+    resultado =  `${resultado} ${skills}`;
   }
   return resultado;
 }
-console.log(maiorPalavra('Antônio foi no banheiro e não sabemos o que aconteceu'));
-
-//3
-
+console.log(novaString(substituiX('Valéria')));
